@@ -1,3 +1,3 @@
-<p align="center"> Of course its under construction, so i suggest you to wait until this Readme is done :)</p>
+<p align="center">I'll do my readme, when I have time. Until then, this text is here. </p>
 
 
